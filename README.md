@@ -26,5 +26,5 @@ pazarlama stratejileri belirlemek istemektedir.
 * CustomerID: Eşsiz müşteri numarası
 * Country: Ülke ismi. Müşterinin yaşadığı ülke.
 
-Kaggle:
+- Kaggle:
 https://www.kaggle.com/haticeebraralc/crm-analytics
